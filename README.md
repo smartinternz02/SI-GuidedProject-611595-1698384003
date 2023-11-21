@@ -36,7 +36,7 @@ which is available at http://ec2-3-27-130-47.ap-southeast-2.compute.amazonaws.co
 
 
 
-##### [Tea Leaves Disease Detection](http://ec2-3-27-130-47.ap-southeast-2.compute.amazonaws.com:8080)  <-- Direct Link for Web Page
+# [Tea Leaves Disease Detection](http://ec2-3-27-130-47.ap-southeast-2.compute.amazonaws.com:8080)  <-- Direct Link for Web Page
 
 
 
