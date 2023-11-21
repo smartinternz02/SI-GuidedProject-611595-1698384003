@@ -39,4 +39,27 @@ which is available at http://ec2-3-27-130-47.ap-southeast-2.compute.amazonaws.co
 
 
 
+## Project Team Information
+
+**Team ID:** Team-592384  
+**Team Size:** 4
+
+### Team Members:
+
+1. **Team Leader:**
+   - **Name:** Yarlagadda Nitin
+   - **Email:** [nitin.yarlagadda2021@vitstudent.ac.in](mailto:nitin.yarlagadda2021@vitstudent.ac.in)
+
+2. **Team Member:**
+   - **Name:** Katta Santhosh Kumar Reddy
+   - **Email:** [kattasanthosh.kumarreddy2021@vitstudent.ac.in](mailto:kattasanthosh.kumarreddy2021@vitstudent.ac.in)
+
+3. **Team Member:**
+   - **Name:** Kolli Tushar
+   - **Email:** [kolli.tushar2021@vitstudent.ac.in](mailto:kolli.tushar2021@vitstudent.ac.in)
+
+4. **Team Member:**
+   - **Name:** Sai Raghavendra Siddhardha Baratam
+   - **Email:** [raghavendra.siddhardha2021@vitstudent.ac.in](mailto:raghavendra.siddhardha2021@vitstudent.ac.in)
+
 
