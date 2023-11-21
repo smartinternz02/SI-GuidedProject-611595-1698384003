@@ -12,7 +12,7 @@ This project aims to predict tea leaves diseases using Convolutional Neural Netw
 
 - **Model Development**: The `Predicting_the_disease_in_tea_leaves.ipynb` notebook includes the code for developing and training the CNN model. It provides detailed explanations and visualizations of the model architecture and training process.
 
-- **Dataset**: The `dataset` directory contains the dataset used for training and testing the model. Ensure that you have the necessary permissions and rights to use and distribute the dataset.
+- **Dataset**: The `dataset.txt` directory contains the dataset used for training and testing the model. Ensure that you have the necessary permissions and rights to use and distribute the dataset.
 
 ## Getting Started
 
