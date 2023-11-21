@@ -13,7 +13,7 @@ This project aims to predict tea leaves diseases using Convolutional Neural Netw
 - **Model Development**: The `Predicting_the_disease_in_tea_leaves.ipynb` notebook includes the code for developing and training the CNN model. It provides detailed explanations of the model architecture and training process.
 
 - **Dataset**: The `Data Set.txt` directory contains the dataset used for training and testing the model. Ensure that you have the necessary permissions and rights to use and distribute the dataset.
-               # Data Set is also available in Kaggle which can be accessed using an API --> [Data Set](https://www.kaggle.com/datasets/shashwatwork/identifying-disease-in-tea-leafs)
+               ## Data Set is also available in Kaggle which can be accessed using an API --> [Data Set](https://www.kaggle.com/datasets/shashwatwork/identifying-disease-in-tea-leafs)
 
 ## Getting Started
 
