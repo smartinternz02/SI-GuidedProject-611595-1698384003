@@ -19,4 +19,4 @@ This project aims to predict tea leaves diseases using Convolutional Neural Netw
 ### Prerequisites
 
 - Python 3.x
-- Install dependencies using `requirements.txt`:
+- Install dependencies like : Flask,Numpy,image,keras,tensorflow
