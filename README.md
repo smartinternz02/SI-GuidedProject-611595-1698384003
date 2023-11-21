@@ -8,7 +8,7 @@ This project aims to predict tea leaves diseases using Convolutional Neural Netw
 
 ## Features
 
-- **Web Interface**: The `web_interface` directory contains the code for the Flask web application. Users can interact with the trained model through this interface.
+- **Web Interface**: The `Web Interface` directory contains the code for the Flask web application. Users can interact with the trained model through this interface.
 
 - **Model Development**: The `Predicting_the_disease_in_tea_leaves.ipynb` notebook includes the code for developing and training the CNN model. It provides detailed explanations and visualizations of the model architecture and training process.
 
@@ -20,3 +20,19 @@ This project aims to predict tea leaves diseases using Convolutional Neural Netw
 
 - Python 3.x
 - Install dependencies like : Flask,Numpy,image,keras,tensorflow
+
+
+### Running the Web Interface
+
+1. Navigate to the `Web Interface` directory:
+
+2. Run the Flask application: using simple line of code : python app.py
+
+The web interface will be accessible at [http://localhost:5000](http://localhost:5000) -> in your local host
+
+And for the ease of accesing the web interface we hosted the web app onto AWS Cloud Services which is available at http://ec2-3-27-130-47.ap-southeast-2.compute.amazonaws.com:8080
+
+
+
+
+
