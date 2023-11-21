@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project aims to predict tea leaves diseases using Convolutional Neural Networks (CNN). It includes a web interface built with Flask for user interaction, and a Jupyter notebook (ipynb) for the model development. The dataset used for training and testing the model is also included.
+This project aims to predict tea leaves diseases using Convolutional Neural Networks (CNN) using Transfer Learning Method from VGG16 Pretrained Model. It includes a web interface built with Flask for user interaction, and a Jupyter notebook (ipynb) for the model development. The dataset used for training and testing the model is also included.
 
 ## Features
 
