@@ -32,6 +32,7 @@ The web interface will be accessible at [http://localhost:5000](http://localhost
 
 And for the ease of accesing the web interface we hosted the web app onto AWS Cloud Services which is available at http://ec2-3-27-130-47.ap-southeast-2.compute.amazonaws.com:8080
 
+[Tea Leaves Disease Detection](http://ec2-3-27-130-47.ap-southeast-2.compute.amazonaws.com:8080)
 
 
 
